@@ -625,7 +625,7 @@ function Home() {
             <div className="row py-2">
               <div className="col-12 text-center">
                 <p className="m-0 f-rob-med f-14 d-inline-block">
-                  Pratik Lodu
+                  Pratik Lodu aaaaaaaaaaaaaaaaa
                 </p>
                 <Link
                   to="/nutrition/white-labelling"
