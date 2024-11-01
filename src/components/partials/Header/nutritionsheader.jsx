@@ -75,6 +75,11 @@ function NutritionHeader() {
                   Free shipping on prepaid orders above ₹499
                 </p>
               </div>
+              <div className="item">
+                <p className="text-white m-0 f-rob-reg f-14 lp-2">
+                  Designer Quality styles
+                </p>
+              </div>
             </OwlCarousel>
           </div>
         </section>
