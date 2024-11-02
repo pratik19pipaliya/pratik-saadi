@@ -16,7 +16,12 @@
 
   /* Text color - Charcoal */
   --text-color: #3d3d3d; /* Deep, luxurious gray for readability */
+
+  --black-color: #000000;
+
+  --white-color: #FFFFFF;
 }
+
 a {
   text-decoration: none;
 }
@@ -714,6 +719,9 @@ a {
   width: 100%;
   z-index: 997;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.06);
+}
+.header-main .announcement-slider{
+  background-color: var(--black-color);
 }
 
 .header-main .header-logo {
